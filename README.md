@@ -386,7 +386,7 @@ Planned improvements for this project:
 ## 👨‍💻 Author
 **Bhupendra Patil**
 Full-Stack MERN Developer  
-- GitHub: [patil-bhupendra](https://github.com/patil-bhupendra
+- GitHub: [patil-bhupendra](https://github.com/patil-bhupendra)
 
 ## ⭐ If you found this project useful
 
