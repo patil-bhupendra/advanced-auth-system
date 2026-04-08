@@ -191,9 +191,9 @@ POST /api/auth/login
 GET /api/auth/get-me
 ```
 **Headers:**
-
+```
 Authorization: Bearer your_access_token
-
+```
 **Response:**
 ```
 {
