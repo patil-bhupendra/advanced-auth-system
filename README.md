@@ -384,11 +384,10 @@ Planned improvements for this project:
 - Unit & integration tests
 
 ## 👨‍💻 Author
-
 **Bhupendra Patil**
-Full Stack Developer (MERN Stack)
+Full-Stack MERN Developer  
+- GitHub: [patil-bhupendra](https://github.com/patil-bhupendra
 
-**GitHub:** patil-bhupendra
 ## ⭐ If you found this project useful
 
 If this project helped you understand advanced authentication concepts:
